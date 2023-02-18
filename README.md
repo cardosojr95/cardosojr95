@@ -2,7 +2,6 @@
 
 - 🔭 Estou trabalhando com freelancer atualmente
 - 🌱 Estou estudando Data Science e Front-End
-- 😄 Pronome: Ele/Dele
 - ⚡ Fato legal sobre mim: Gosto de cozinhar pratos da culinária Nordestina.
 -->
 <div align="center">
